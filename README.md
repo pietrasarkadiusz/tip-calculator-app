@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-)
-- Live Site URL: [Add live site URL here](https://your-live-site-)
+- Live Site URL: [Tip calculator](https://pietrasarkadiusz.github.io/tip-calculator-app/)
 
 ## My process
 
